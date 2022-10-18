@@ -45,9 +45,7 @@ body {
   bottom: -4px;
   background: linear-gradient(315deg, #D95252, #D95252);
   transform: skewX(2deg) skewY(2deg);
-} 
-
-
+}
 .box span {
   position: absolute;
   top: 0;
